@@ -1,14 +1,14 @@
-name = "cf-worker-ws-dev" # todo
+name = "uwu-dev" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2024-05-15"
 
 [vars]
-UUID = "5069b7fa-eeb9-486b-a92f-33012a7f46f6"
-PROXYIP = "36.74.174.7"
-PASSWORD = "UWUUU"
+UUID = "9edab95d-a876-4b8f-bd5a-3cd8a183f395"
+PROXYIP = "180.247.80.226"
+PASSWORD = "111"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
